@@ -1,0 +1,17 @@
+{
+  "name": "ESO Scribing Checkliste",
+  "short_name": "ESO Scribing",
+  "description": "Interaktive Checkliste für The Elder Scrolls Online Scribing-Skripturen.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#ceab6f",
+  "icons": [
+    {
+      "src": "Gemini_Generated_Image_x5uhjrx5uhjrx5uh.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
